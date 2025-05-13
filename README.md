@@ -12,7 +12,7 @@ A simple and interactive real-time chat application that allows users to communi
 
 **Frontend:**
 - ReactJs
-- CSS
+- Tailwind CSS
 
 **Backend:**
 - Node.js
@@ -46,6 +46,9 @@ By default, the app will run on:http://localhost:3000
 
 ### 4. Open in your browser
 Open the above URL in your browser. You can open it in multiple tabs or devices to test the real-time messaging feature.
+
+Here is the deployed link of website for you to try it out :)  -> https://chat-app-curb.onrender.com/
+
 
 
 
